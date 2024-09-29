@@ -95,7 +95,7 @@ class PortfolioView {
         this.summaryTitle.innerText = data.summaryTitle
         this.summary.innerText = data.summary;
         this.title.textContent = data.title
-        this.copyrights.textContent = data.copyrights
+        this.copyrights.innerHTML = data.copyrights
     }
 
     renderSocialLinks(socialLinks) {
