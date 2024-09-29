@@ -1,7 +1,7 @@
 class PortfolioModel {
     constructor() {
         this.data = {
-            description: "",
+            summary: "",
             projects: [],
             references: [],
             skills: []

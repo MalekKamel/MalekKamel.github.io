@@ -13,7 +13,7 @@ class PortfolioController {
 
     updateView() {
         const data = this.model.getData();
-        this.view.renderDescription(data.description);
+        this.view.renderPersonalData(data)
         this.view.renderSkills(data.skills);
         this.view.renderProjects(data.projects);
         this.view.renderReferences(data.references);

@@ -1,9 +1,13 @@
 {
-    "description": "I'm a passionate Software Engineer with over 9 years of experience specializing in mobile development. I have a strong background in building high-quality, user-friendly applications for both iOS and Android platforms.\n\nI believe in the power of open source and actively contribute to various projects, helping to foster collaboration and innovation within the tech community.",
+    "title": "Malek Kamel - Software Engineer",
+    "navTitle": "Malek Kamel",
+    "summaryTitle": "Malek Kamel",
+    "copyrights": "&copy; 2024 Malek Kamel. All rights reserved.",
+    "summary": "I'm a passionate Software Engineer with over 9 years of experience specializing in mobile development. I have a strong background in building high-quality, user-friendly applications for both iOS and Android platforms. I believe in the power of open source and actively contribute to various projects, helping to foster collaboration and innovation within the tech community.",
     "projects": [
         {
             "title": "Solara",
-            "description": "Solara is a comprehensive Ruby library designed to streamline the setup and management of white label applications across various platforms, including iOS, Android, Flutter, and Web.\n\nWith Solara, you can effortlessly manage the dynamic components of your white label apps using a user-friendly Command Line Interface (CLI) and a powerful dashboard that simplifies the administration of multiple brands,enabling efficient control over app configurations.",
+            "description": "Solara is a comprehensive Ruby library designed to streamline the setup and management of white label applications across various platforms, including iOS, Android, Flutter, and Web. With Solara, you can effortlessly manage the dynamic components of your white label apps using a user-friendly Command Line Interface (CLI) and a powerful dashboard that simplifies the administration of multiple brands,enabling efficient control over app configurations.",
             "logoColor": "#007bff",
             "url": "https://github.com/Solara-Kit/Solara"
         },
@@ -15,7 +19,7 @@
         },
         {
             "title": "FormValidator",
-            "description": "A declarative Form Validation for Android, simple, clean, and customizable.\nEvery time you create a form, you need to declare fields and write code for for validating each field in the form, and this results in many if else and a lot of boilerplate. For these reasons FormValidator is here, just declare your fields in XML and its validation and all things will be done for you!",
+            "description": "A declarative Form Validation for Android, simple, clean, and customizable. Every time you create a form, you need to declare fields and write code for for validating each field in the form, and this results in many if else and a lot of boilerplate. For these reasons FormValidator is here, just declare your fields in XML and its validation and all things will be done for you!",
             "logoColor": "#28a745",
             "url": "https://github.com/MalekKamel/FormValidator"
         },

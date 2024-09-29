@@ -1,14 +1,14 @@
 class PortfolioView {
     constructor() {
-        this.description = document.getElementById('description');
+        this.summary = document.getElementById('summary');
         this.skillsContainer = document.getElementById('skillsContainer');
         this.projectsContainer = document.getElementById('projectsContainer');
         this.referencesContainer = document.getElementById('referencesContainer');
         this.themeToggle = document.getElementById('themeToggle');
-    }
-
-    renderDescription(description) {
-        this.description.textContent = description;
+        this.title = document.getElementById('title');
+        this.navTitle = document.getElementById('navTitle');
+        this.summaryTitle = document.getElementById('summaryTitle');
+        this.copyrights = document.getElementById('copyrights');
     }
 
     renderSkills(skills) {
@@ -88,6 +88,14 @@ class PortfolioView {
 
     bindThemeToggle(handler) {
         this.themeToggle.addEventListener('click', handler);
+    }
+
+    renderPersonalData(data) {
+        this.navTitle.innerText = data.navTitle
+        this.summaryTitle.innerText = data.summaryTitle
+        this.summary.innerText = data.summary;
+        this.title.textContent = data.title
+        this.copyrights.textContent = data.copyrights
     }
 
     renderSocialLinks(socialLinks) {
