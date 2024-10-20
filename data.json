@@ -1,35 +1,9 @@
 {
-    "title": "Malek Kamel - Software Engineer",
-    "navTitle": "Malek Kamel",
-    "summaryTitle": "Malek Kamel",
-    "summary": "I'm a passionate Software Engineer with over 9 years of experience specializing in mobile development. I have a strong background in building high-quality, user-friendly applications for both iOS and Android platforms. I believe in the power of open source and actively contribute to various projects, helping to foster collaboration and innovation within the tech community.",
-    "copyrights": "&copy; 2024 Malek Kamel. All rights reserved.",
-    "projects": [
-        {
-            "title": "Solara",
-            "description": "Solara is a comprehensive Ruby library designed to streamline the setup and management of white label applications across various platforms, including iOS, Android, Flutter, and Web. With Solara, you can effortlessly manage the dynamic components of your white label apps using a user-friendly Command Line Interface (CLI) and a powerful dashboard that simplifies the administration of multiple brands,enabling efficient control over app configurations.",
-            "logoColor": "#007bff",
-            "url": "https://github.com/Solara-Kit/Solara"
-        },
-        {
-            "title": "SwiftUINavigator",
-            "description": "SwiftUINavigator is an on-the-fly approach for handling navigation in SwiftUI. It provides a familiar way of handling navigation similar to UIKit, where you can push or present a view controller without the need to declare links or local state variables. This approach is more flexible and allows for dynamic navigation, making it easier to build more complex navigation flows in your SwiftUI app. Unlike traditional navigation patterns in SwiftUI, SwiftUINavigator offers a more intuitive and straightforward way of managing your app's navigation hierarchy.",
-            "logoColor": "#28a745",
-            "url": "https://github.com/Open-Bytes/SwiftUINavigator"
-        },
-        {
-            "title": "FormValidator",
-            "description": "A declarative Form Validation for Android, simple, clean, and customizable. Every time you create a form, you need to declare fields and write code for for validating each field in the form, and this results in many if else and a lot of boilerplate. For these reasons FormValidator is here, just declare your fields in XML and its validation and all things will be done for you!",
-            "logoColor": "#28a745",
-            "url": "https://github.com/MalekKamel/FormValidator"
-        },
-        {
-            "title": "Flatter",
-            "description": "Flatter is an extra-light and powerful solution for the hell of nested widgets in Flutter. Flatter makes Flutter widgets flat, concise, readable, and maintainable. Flatter hides the verbosity of Flutter widgets by exposing declarative APIs for different components.",
-            "logoColor": "#007bff",
-            "url": "https://pub.dev/packages/flatter"
-        }
-    ],
+    "title": "Omar Ali - Mobile Software Engineer",
+    "navTitle": "Omar Ali",
+    "summaryTitle": "Omar Ali",
+    "summary": "I'm Omar Ali, a passionate Flutter developer dedicated to creating innovative mobile applications that enhance user experiences. I thrive in collaborative environments and embrace challenges that require creative problem-solving.",
+    "copyrights": "&copy; 2024 Omar Ali. All rights reserved.",
     "references": [
         {
             "title": "Code Complete: A Practical Handbook of Software Construction, Second Edition",
@@ -113,85 +87,51 @@
         }
     ],
     "skills": [
-        "iOS",
         "Android",
         "Flutter",
-        "Swift",
-        "Objective-C",
-        "Kotlin",
         "Java",
         "Dart",
-        "Ruby",
         "Python",
-        "JavaScript",
         "HTML",
         "CSS",
-        "Algorithms",
         "Data Structures",
         "Git",
         "GitHub",
-        "Bitbucket",
-        "GitLab",
-        "REST",
-        "SOAP",
-        "GraphQL",
         "SQL",
         "Socket Programming",
         "Real-time apps",
-        "Threading & Concurrency",
         "Functional programming",
         "Async/Await",
-        "Rx",
-        "SwiftUI",
-        "Combine",
         "CoreData",
-        "Room",
-        "Jetpack Compose",
         "Architecture Components",
-        "Coroutines",
-        "Swagger",
-        "Jenkins",
         "HockeyApp",
         "GoF Design Patterns",
         "Head First Design Patterns",
         "Modular architecture",
-        "MVVM",
-        "MVI",
-        "VIPER",
-        "MVP",
-        "MVC",
         "Xcode",
         "AppCode",
         "Android Studio",
-        "IntelliJ IDEA",
         "Fleet",
-        "PyCharm",
-        "VSCode",
-        "Agile",
-        "Jira",
-        "Toggl",
-        "Clickup",
-        "Zeplin",
-        "Figma"
+        "VSCode"
     ],
     "socialLinks": [
         {
-            "url": "https://www.linkedin.com/in/malek-kamel/",
+            "url": "https://www.linkedin.com/in/omar-ali-54b136330/",
             "class": "bi-linkedin",
             "title": "LinkedIn"
         },
         {
-            "url": "https://github.com/MalekKamel",
+            "url": "https://github.com/OmAlKml",
             "class": "bi-github",
             "title": "GitHub"
         },
         {
-            "url": "https://x.com/MalekKamell",
+            "url": "https://x.com/OmAlKml",
             "class": "bi-twitter",
             "title": "Twitter"
         },
         {
-            "url": "mailto:sha.kamel.eng@gmail.com",
+            "url": "mailto:omar.ali.kml@gmail.com",
             "class": "bi-envelope",
             "title": "Email"
         }
